@@ -8,7 +8,7 @@ Trabalho atualmente como Técnico de Controle de Processos na área de beneficia
 - Coleta, preparação, manipulação , extração e tratamento de dados;
 - Análise e visualização de dados;
 - Geração de insights para o negócio;
-- Desenvolvimento de dashboards com KPIs;
+- Desenvolvimento de dashboards com KPIs.
 
 **Principais ferramentas:**
 Python (Pandas | Numpy | Matplotlib | Seaborn | Scikit-Learn | SciPy | Plotly)
