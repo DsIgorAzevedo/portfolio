@@ -1,5 +1,5 @@
 # Igor Azevedo
-Iniciante em Análise de Dados
+Iniciante em Data Analytics e Data Science
 
 **Principais atribuições:**
 
